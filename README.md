@@ -11,4 +11,4 @@
 https://github.com/louislam/uptime-kuma
 
 
-Nginx Proxy Manager Docker
+Uptime-Kuma

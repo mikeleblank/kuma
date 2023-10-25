@@ -1,5 +1,3 @@
-[![UPTIME-KUMA](https://github.com/louislam/uptime-kuma/raw/master/public/icon.svg)](https://miguelblanco.ar)
-
 <h1 align="center">UPTIME KUMA</h1>
 <h3 align="center">Proyecto herramienta de monitoreo SELF-HOSTED. Notificaciones por TELEGRAM</h3>
 
